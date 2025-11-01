@@ -8,3 +8,5 @@ Building and Running the APKConnect your Android device via USB (with developer 
 # buildozer -v android debug
 
 This workflow gives you a basic "Hello World" APK built with Kivy on Android
+<img width="979" height="1218" alt="Image" src="https://github.com/user-attachments/assets/9f5eaeb5-5a73-412d-a655-99c6c1e9c210" />
+![Image](https://github.com/user-attachments/assets/780e0036-7ebc-4053-b31f-3086f4aad316)
